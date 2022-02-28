@@ -1,0 +1,6 @@
+{
+    "ecl.launchConfiguration": "localhost",
+    "ecl.targetCluster": {
+        "localhost": "hthor"
+    }
+}
