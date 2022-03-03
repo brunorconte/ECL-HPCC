@@ -1,5 +1,5 @@
 EXPORT File_Persons := MODULE
-    Layout := RECORD
+    EXPORT Layout := RECORD
         INTEGER4    RECID;
         STRING15    FirstName;
         STRING25    LastName;
